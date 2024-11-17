@@ -5,7 +5,7 @@ public class AVLTree {
     // Define the Node structure
     static class Node {
         int data, height; // Node data and its height in the tree
-        Node left, right; // Pointers to left and right children
+        Node left, right; // Pointers to left and right children.
 
         Node(int data) {
             this.data = data; // Initialize node data
