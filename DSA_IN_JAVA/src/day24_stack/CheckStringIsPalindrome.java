@@ -1,8 +1,8 @@
-package day24;
+package day24_stack;
 
 import java.util.Stack;
 
-public class ReverseStringUsingStack {
+public class CheckStringIsPalindrome {
 
     // Function to check if a string is a palindrome
     public static boolean isPalindrome(String str) {

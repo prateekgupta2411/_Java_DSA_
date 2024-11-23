@@ -1,4 +1,4 @@
-package day24;
+package day24_stack;
 
 public class Sample_String {
     public static void main(String[] args) {
