@@ -1,4 +1,4 @@
-package day22;
+package day22_ll;
 
 public class LinkedListCycle {
     static Node head;
