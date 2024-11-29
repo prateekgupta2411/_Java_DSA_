@@ -1,4 +1,4 @@
-package day22_ll;
+package day22_linkedlist;
 
 public class LinkedList {
     public static class Node{
@@ -54,6 +54,7 @@ public class LinkedList {
         System.out.println("null");
     }
 
+    // add any index
     public void add(int ind, int data){
         if(ind ==0){
             addFirst(data);

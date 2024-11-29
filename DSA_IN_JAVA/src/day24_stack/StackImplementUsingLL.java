@@ -2,7 +2,7 @@ package day24_stack;
 
 public class StackImplementUsingLL {
     static class Node{
-        int data;
+         int data;
          Node next;
          Node(int data){
              this.data = data;

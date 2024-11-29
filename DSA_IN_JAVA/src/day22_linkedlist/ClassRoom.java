@@ -1,4 +1,4 @@
-package day22_ll;
+package day22_linkedlist;
 import java.util.LinkedList;
 public class ClassRoom {
     public static void main(String[] args) {
