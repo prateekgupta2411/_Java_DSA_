@@ -50,7 +50,7 @@ public class Bellman_Ford_Algo {
 
         int V = graph.length; // Total number of vertices
 
-        // Algorithm ka main loop (V-1 baar relaxation karna)
+        // Algorithm ka main loop (V-1 baar relaxation karna) O(V)
         for (int i = 0; i < V - 1; i++) { // O(V)
             // Sabhi edges ko check karte hain (Relaxation step)
             for (int j = 0; j < graph.length; j++) { // O(E)
