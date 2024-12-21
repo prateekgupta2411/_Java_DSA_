@@ -3,7 +3,7 @@ package day39_graph;
 import java.util.ArrayList;
 import java.util.PriorityQueue;
 
-public class Prim_Algo {
+public class Prim_Algo_MinCost {
     static class Edge {
         int src;
         int dest;
